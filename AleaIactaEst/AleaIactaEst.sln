@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleaIactaEst", "AleaIactaEst.csproj", "{E526387A-2A36-4550-9719-0ABC046048CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AleaIactaEst", "AleaIactaEst.csproj", "{E526387A-2A36-4550-9719-0ABC046048CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleaIactaEst.Core", "..\AleaIactaEst.Core\AleaIactaEst.Core.csproj", "{8B9F3643-4C5B-4393-9660-C57399E5C043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleaIactaEst.Data", "..\AleaIactaEst.Data\AleaIactaEst.Data.csproj", "{3CA681A6-5407-4031-B23D-6D7399CFA4AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E526387A-2A36-4550-9719-0ABC046048CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E526387A-2A36-4550-9719-0ABC046048CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E526387A-2A36-4550-9719-0ABC046048CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9F3643-4C5B-4393-9660-C57399E5C043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9F3643-4C5B-4393-9660-C57399E5C043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9F3643-4C5B-4393-9660-C57399E5C043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9F3643-4C5B-4393-9660-C57399E5C043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA681A6-5407-4031-B23D-6D7399CFA4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA681A6-5407-4031-B23D-6D7399CFA4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA681A6-5407-4031-B23D-6D7399CFA4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA681A6-5407-4031-B23D-6D7399CFA4AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

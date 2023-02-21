@@ -1,0 +1,12 @@
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\bin\Debug\net6.0\AleaIactaEst.Core.deps.json
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\bin\Debug\net6.0\AleaIactaEst.Core.dll
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\bin\Debug\net6.0\AleaIactaEst.Core.pdb
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\AleaIactaEst.Core.csproj.AssemblyReference.cache
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\AleaIactaEst.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\AleaIactaEst.Core.AssemblyInfoInputs.cache
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\AleaIactaEst.Core.AssemblyInfo.cs
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\AleaIactaEst.Core.csproj.CoreCompileInputs.cache
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\AleaIactaEst.Core.dll
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\refint\AleaIactaEst.Core.dll
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\AleaIactaEst.Core.pdb
+C:\Skola\BakalarskaPrace\AleaIactaEst\AleaIactaEst.Core\obj\Debug\net6.0\ref\AleaIactaEst.Core.dll
