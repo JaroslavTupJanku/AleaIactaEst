@@ -3,3 +3,6 @@
 ################################################################################
 
 /AleaIactaEst/.vs/AleaIactaEst/
+/AleaIactaEst.Data/bin/Debug/net6.0
+/AleaIactaEst.Data/obj/Debug/net6.0
+/AleaIactaEst/obj/Debug/net6.0-windows
